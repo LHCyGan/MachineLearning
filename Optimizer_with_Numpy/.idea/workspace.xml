@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c6a6028-4908-44a3-beab-f73fe04042e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YvVeZu60z86SkAgOw9pjb1pY9t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="G:/liuheng_DL/LHeng_人工智能/NLP/自然语言处理微专业/03-文本表示/Text_Representation/Chapter1_Basic_Text_Representation" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="S:\Pycharm\Optimizer_with_Numpy\梯度校验" />
+      <recent name="S:\Pycharm\Optimizer_with_Numpy\正则化" />
+      <recent name="S:\Pycharm\Optimizer_with_Numpy\权重参数初始化" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.reg_main">
+    <configuration name="init_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Optimizer_with_Numpy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="S:\Pycharm\Optimizer_with_Numpy\权重参数初始化\init_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reg_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Optimizer_with_Numpy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/正则化" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/正则化/reg_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.reg_main" />
+        <item itemvalue="Python.init_main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c6a6028-4908-44a3-beab-f73fe04042e8" name="Default Changelist" comment="" />
+      <created>1583823150289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583823150289</updated>
+      <workItem from="1583823215703" duration="8190000" />
+      <workItem from="1584084551925" duration="1882000" />
+      <workItem from="1584161161927" duration="149000" />
+      <workItem from="1584690241848" duration="5775000" />
+      <workItem from="1584853465289" duration="91000" />
+      <workItem from="1585441807243" duration="10693000" />
+      <workItem from="1585458714121" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1585458732351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585458732351" />
+    <state width="1478" height="114" key="GridCell.Tab.0.bottom" timestamp="1585456995362">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="114" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585456995362" />
+    <state width="1478" height="114" key="GridCell.Tab.0.center" timestamp="1585456995362">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="114" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585456995362" />
+    <state width="1478" height="114" key="GridCell.Tab.0.left" timestamp="1585456995362">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="114" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585456995362" />
+    <state width="1478" height="114" key="GridCell.Tab.0.right" timestamp="1585456995362">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="114" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585456995362" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1583823329401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583823329401" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1585458714929">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585458714929" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583823494080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583823494080" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Optimizer_with_Numpy$main.coverage" NAME="main Coverage Results" MODIFIED="1585447700235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Optimizer_with_Numpy$reg_main.coverage" NAME="reg_main Coverage Results" MODIFIED="1585452784871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正则化" />
+  </component>
+</project>
